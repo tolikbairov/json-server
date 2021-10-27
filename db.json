@@ -7,21 +7,21 @@
       "id": 1
     },
     {
-      "firstname": "asd",
-      "lastname": "asd",
-      "email": "asd@gmail.com",
+      "firstname": "Ivan",
+      "lastname": "Ivanov",
+      "email": "ivanov@gmail.com",
       "id": 2
     },
     {
-      "firstname": "asd",
-      "lastname": "asd",
-      "email": "asd@gm.co",
+      "firstname": "Fallon",
+      "lastname": "Rush",
+      "email": "Fallon@gmail.com",
       "id": 3
     },
     {
-      "firstname": "asd",
-      "lastname": "asd",
-      "email": "asd@gm.co",
+      "firstname": "Jarvis",
+      "lastname": "Riggs",
+      "email": "Riggs@gmail.com",
       "id": 4
     }
   ]
